@@ -1,6 +1,6 @@
-# IntraEx Markets LLC – Intrastate Offering Reporting
+# IntraEx Markets LLC – Exwmpt and Intrastate Offering Registry
 
-A private repository for maintaining reporting requirements for **exempt intrastate offerings** when they are traded within state boundaries.
+A private repository for maintaining reporting requirements for **Exempt and Intrastate Offerings** when they are traded within state boundaries.
 
 ## Contents
 - Offering Documents
