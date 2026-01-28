@@ -1,4 +1,4 @@
-# IntraEx Markets LLC – Exwmpt and Intrastate Offering Registry
+# IntraEx Markets LLC – Exempt and Intrastate Offering Registry
 
 A private repository for maintaining reporting requirements for **Exempt and Intrastate Offerings** when they are traded within state boundaries.
 
