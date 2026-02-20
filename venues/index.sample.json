@@ -1,0 +1,38 @@
+{
+  "venues": [
+    {
+      "venue_id": "CFTC-DCM-001",
+      "venue_code": "PPDX",
+      "venue_name": "PRESSPAGE Derivatives Exchange",
+      "regulator": "CFTC",
+      "venue_type": "DCM",
+      "lei": "5493001KJTIIGC8Y1R12",
+      "cik": "0001234567",
+      "jurisdiction": "US",
+      "status": "active",
+      "effective_date": "2026-01-01",
+      "website": "https://ppexample.exchange",
+      "contact": {
+        "compliance_email": "compliance@ppexample.exchange",
+        "legal_email": "legal@ppexample.exchange"
+      }
+    },
+    {
+      "venue_id": "SEC-NMS-001",
+      "venue_code": "PPSE",
+      "venue_name": "PRESSPAGE Securities Exchange",
+      "regulator": "SEC",
+      "venue_type": "NMS",
+      "mic": "PPSE",
+      "cik": "0007654321",
+      "jurisdiction": "US",
+      "status": "active",
+      "effective_date": "2026-01-01",
+      "website": "https://ppsecurities.exchange",
+      "contact": {
+        "compliance_email": "compliance@ppsecurities.exchange",
+        "legal_email": "legal@ppsecurities.exchange"
+      }
+    }
+  ]
+}
